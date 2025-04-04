@@ -9,8 +9,8 @@ The study incorporates ARIMA for country-wise time series forecasting to predict
 - To gain insights into local and global energy consumption patterns to assist in policy development for sustainable energy.
 
 # Solution
-ARIMA Model: Applied for country-specific time-series forecasting of primary energy consumption per capita, capturing local trends.
-LSTM Model: Used to forecast global energy consumption, considering data from all countries together to account for global patterns.
-Advanced Data Scaling: Different scaling methods were used for LSTM to improve model performance and accuracy.
+- ARIMA Model: Applied for country-specific time-series forecasting of primary energy consumption per capita, capturing local trends.
+- LSTM Model: Used to forecast global energy consumption, considering data from all countries together to account for global patterns.
+- Advanced Data Scaling: Different scaling methods were used for LSTM to improve model performance and accuracy.
 
 
